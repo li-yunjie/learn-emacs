@@ -19,4 +19,6 @@ Fullscreen mode: toggle-frame-maximized
 Tutorial Language: M-x help-with-tutorial-spec-language  
 load theme: M-x load-theme  
 
-Setting up python in Emacs: https://org-technology.com/posts/emacs-elpy.html
+A guide tour for Emacs: https://www.gnu.org/software/emacs/tour/  
+Elpy docs: http://elpy.readthedocs.io/en/latest/index.html  
+Setting up python in Emacs: https://org-technology.com/posts/emacs-elpy.html  
