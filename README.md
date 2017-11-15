@@ -18,3 +18,5 @@ Select certain text: shift + up/left/bottom/right
 Fullscreen mode: toggle-frame-maximized  
 Tutorial Language: M-x help-with-tutorial-spec-language  
 load theme: M-x load-theme  
+
+Setting up python in Emacs: https://org-technology.com/posts/emacs-elpy.html
