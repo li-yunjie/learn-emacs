@@ -13,7 +13,16 @@ Undo: C-/ C-_ C-u
 Cancel: C-g  
 Auto-complete: Tab  
 Go to beginning of a line: C-a end: C-e  
+
 Select certain text: shift + up/left/bottom/right
+copy: M-w
+cut: C-w
+paste: C-y
+delete row: C-k
+comment: M-:
+
+Search:
+grep: M-x grep-find
 
 Fullscreen mode: toggle-frame-maximized  
 Tutorial Language: M-x help-with-tutorial-spec-language  
