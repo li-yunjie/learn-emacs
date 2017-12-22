@@ -2,6 +2,7 @@
 learning to use emacs  
 Youtube tutorials:  
 - https://www.youtube.com/watch?v=B6jfrrwR10k
+M-x help-with-tutorial 打开教程
 
 
 emacs init File: C-x C-f ~/.emacs.d/init.el RET    
@@ -31,3 +32,6 @@ load theme: M-x load-theme
 A guide tour for Emacs: https://www.gnu.org/software/emacs/tour/  
 Elpy docs: http://elpy.readthedocs.io/en/latest/index.html  
 Setting up python in Emacs: https://org-technology.com/posts/emacs-elpy.html  
+
+C-h f Describe function
+C-h v Describe variable
