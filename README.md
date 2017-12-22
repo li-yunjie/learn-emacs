@@ -4,11 +4,11 @@ Youtube tutorials:
 - https://www.youtube.com/watch?v=B6jfrrwR10k  
 
 
-M-x help-with-tutorial open tutorial
-C-x b <non existent buffer name> create new buffer
-M-x rename-buffer <RET> name <RET> change the name of the current buffer
+M-x help-with-tutorial open tutorial  
+C-x b <non existent buffer name> create new buffer  
+M-x rename-buffer <RET> name <RET> change the name of the current buffer  
 
-emacs init File: C-x C-f ~/.emacs.d/init.el RET    
+emacs init File: C-x C-f ~/.emacs.d/init.el RET  
 Open: C-x i (insert-file)  
 Switch to buffer: C-x b   
 Kill buffer: C-x k  
