@@ -2,15 +2,19 @@
 learning to use emacs  
 Youtube tutorials:  
 - https://www.youtube.com/watch?v=B6jfrrwR10k  
-M-x help-with-tutorial 打开教程
 
+
+M-x help-with-tutorial open tutorial
+C-x b <non existent buffer name> create new buffer
+M-x rename-buffer <RET> name <RET> change the name of the current buffer
 
 emacs init File: C-x C-f ~/.emacs.d/init.el RET    
 Open: C-x i (insert-file)  
 Switch to buffer: C-x b   
 Kill buffer: C-x k  
 Save: C-x C-s (single buffer) C-x s (all) C-x C-w (save as...)  
-Undo: C-/ C-_ C-u  
+Select text: shift + up/down/left/right
+Undo: C-/ C-_ C-u  
 Cancel: C-g  
 Auto-complete: Tab  
 Go to beginning of a line: C-a end: C-e  
