@@ -1,6 +1,21 @@
 # learn-emacs
 
+show hidden folders: command + shift + .
+
 increase font size: C-x C-+  
+next page : C-v  
+previous page: M-v  
+place cursor in the center: C-l  
+previous line: C-p  
+next line: C-n  
+backward one character: C-b  
+forward one character: C-f
+backward one word: M-b  
+forward one word: C-f  
+go to beginning of a line: C-a 
+go to end of a line: C-e  
+go to beginning of a sentence: M-a
+go to end of a sentence: M-e
 
 learning to use emacs  
 Youtube tutorials:  
@@ -20,7 +35,6 @@ Select text: shift + up/down/left/right
 Undo: C-/ C-_ C-u  
 Cancel: C-g  
 Auto-complete: Tab  
-Go to beginning of a line: C-a end: C-e  
 
 Select certain text: shift + up/left/bottom/right
 copy: M-w
